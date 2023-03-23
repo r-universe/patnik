@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CIM"]
+	path = CIM
+	url = https://github.com/cran/CIM
+	shallow = true
+	registered = true
 [submodule "extRatum"]
 	path = extRatum
 	url = https://github.com/patnik/extratum
