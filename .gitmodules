@@ -5,6 +5,3 @@
 [submodule "CIM"]
 	path = CIM
 	url = https://github.com/cran/CIM
-[submodule "extRatum"]
-	path = extRatum
-	url = https://github.com/patnik/extratum
